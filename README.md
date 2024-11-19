@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raji Olaoluwa Segun</h1>
 <h3 align="center">Experienced senior full-stack web and mobile developer with a strong track record in delivering dynamic projects throughout the development lifecycle.</h3>
 
-<p align="left"> <a href="https://twitter.com/steph_codess" target="blank"><img src="https://img.shields.io/twitter/follow/steph_codess?logo=twitter&style=for-the-badge" alt="steph_codess" /></a> </p>
-
 - 👨‍💻 My linkedIn profile [https://linkedin.com/in/stephen-codes-14a5681b8](https://linkedin.com/in/stephen-codes-14a5681b8)
 
 - 💬 Ask me about **Frontend, Backend, Web3, mobile developement**
@@ -12,10 +10,6 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1qCWSzxVUWZQBrDwf1qLsfjZ7mLy35M7AZy5w2AD4htI/edit?usp=sharing](https://docs.google.com/document/d/1qCWSzxVUWZQBrDwf1qLsfjZ7mLy35M7AZy5w2AD4htI/edit?usp=sharing)
 
 - ⚡ Fun fact **I can code anything—from websites to bots, and even solutions for problems I haven't encountered yet. Challenges are just puzzles waiting to be solved!**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,9 +24,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/rajiolaolus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/rajiolaolus" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephcodess&show_icons=true&locale=en&layout=compact" alt="stephcodess" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephcodess&show_icons=true&locale=en" alt="stephcodess" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stephcodess&" alt="stephcodess" /></p>
