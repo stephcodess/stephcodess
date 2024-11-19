@@ -1,5 +1,3 @@
-i have the markup to beautify my github profile. how do i use it?
-
 <h1 align="center">Hi 👋, I'm Raji Olaoluwa Segun</h1>
 <h3 align="center">Experienced senior full-stack web and mobile developer with a strong track record in delivering dynamic projects throughout the development lifecycle.</h3>
 
