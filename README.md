@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raji Olaoluwa Segun</h1>
 <h3 align="center">Experienced senior full-stack web and mobile developer with a strong track record in delivering dynamic projects throughout the development lifecycle.</h3>
 
-- 👨‍💻 My linkedIn profile [https://linkedin.com/in/stephen-codes-14a5681b8](https://linkedin.com/in/stephen-codes-14a5681b8)
-
 - 💬 Ask me about **Frontend, Backend, Web3, mobile developement**
-
-- 📫 How to reach me **rajiolaoluwa0@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1qCWSzxVUWZQBrDwf1qLsfjZ7mLy35M7AZy5w2AD4htI/edit?usp=sharing](https://docs.google.com/document/d/1qCWSzxVUWZQBrDwf1qLsfjZ7mLy35M7AZy5w2AD4htI/edit?usp=sharing)
 
 - ⚡ Fun fact **I can code anything—from websites to bots, and even solutions for problems I haven't encountered yet. Challenges are just puzzles waiting to be solved!**
 
@@ -16,7 +10,6 @@
 <a href="https://dev.to/stephcodess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stephcodess" height="30" width="40" /></a>
 <a href="https://twitter.com/steph_codess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="steph_codess" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/stephen-codes-14a5681b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stephen-codes-14a5681b8/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/stephking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stephking" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
